@@ -4,6 +4,7 @@ Update: 16 Oct 2026
 
 # List of Bearing Dataset
 The datasets listed in the table below include only pure bearing classification datasets.
+Total dataset: 26
 | No. | Abbrv. | Name | University/Company | Article/Website | Source | Bearing Model | Sampling Rate (Hz) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | AITHE | Ahrar institute of technology and higher education data set | Ahrar Institute of Technology and Higher Education (AITHE) | [Article Link](https://doi.org/10.1007/s00500-021-06307-x) | [Dataset Link]( https://www.kaggle.com/datasets/pouriyaamini/intelligent-bearing-fault-diagnosis-dataset) |  | 17850 |
@@ -34,6 +35,7 @@ The datasets listed in the table below include only pure bearing classification 
 | 26. | ViT | Vishwakarma Institute of Technology Bearing Dataset | Vishwakarma Institute of Technology |[Article Link](https://doi.org/10.1016/j.dib.2025.111455) | [Dataset Link](https://data.mendeley.com/datasets/zgzyxdnyv9/2) | 608-2RSH | 12000 |
 # List of Bearing  and Gear Datasets
 The datasets listed in the table below include mixed bearing and gear classification datasets.
+Total dataset: 3
 | No. | Abbrv. | Name | University/Company | Article/Website | Source | Bearing Model | Sampling Rate (Hz) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1. | AEU | Army Engineering University of the PLA, Nanjing | Army Engineering University of the PLA, Nanjing | [Article Link](https://doi.org/10.1016/j.dib.2025.112187) | [Dataset Link](https://data.mendeley.com/datasets/yrms2v89p7/1) | NU205 | 6400 |
@@ -42,6 +44,7 @@ The datasets listed in the table below include mixed bearing and gear classifica
 
 # List of Gear Dataset
 The datasets listed in the table below include only pure gear classification datasets.
+Total dataset: 10
 | No. | Abbrv. | Name | University/Company | Article/Website | Source | Sampling Rate (Hz) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1. | AGFD | Aalto Gear Fault datasets | Aalto University | [Article Link](https://doi.org/10.1016/j.dib.2024.111171) | [Dataset Link ASD](https://data.mendeley.com/datasets/6cc4ctxthy/1), [Dataset Link AFGD 3012Hz](https://data.mendeley.com/datasets/fywnj597d8/2), [Dataset Link AFGD 16kHz](https://data.mendeley.com/datasets/fsjhhrw2y8/1) | 16000 |
