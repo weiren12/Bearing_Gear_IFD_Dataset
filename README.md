@@ -44,8 +44,7 @@ The datasets listed in the table below include mixed bearing and gear classifica
 The datasets listed in the table below include only pure gear classification datasets.
 | No. | Abbrv. | Name | University/Company | Article/Website | Source | Sampling Rate (Hz) |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1. | AGFD | Aalto Gear Fault datasets | Aalto University | [Article Link](https://doi.org/10.1016/j.dib.2024.111171) | [Dataset Link ASD](https://data.mendeley.com/datasets/6cc4ctxthy/1), [Dataset Link AFGD 3012Hz](https://data.mendeley.com/datasets/fywnj597d8/2)
-[Dataset Link AFGD 16kHz](https://data.mendeley.com/datasets/fsjhhrw2y8/1) | 16000 |
+| 1. | AGFD | Aalto Gear Fault datasets | Aalto University | [Article Link](https://doi.org/10.1016/j.dib.2024.111171) | [Dataset Link ASD](https://data.mendeley.com/datasets/6cc4ctxthy/1), [Dataset Link AFGD 3012Hz](https://data.mendeley.com/datasets/fywnj597d8/2), [Dataset Link AFGD 16kHz](https://data.mendeley.com/datasets/fsjhhrw2y8/1) | 16000 |
 | 2. | BJUT WT | BJUT WT-Planetary gearbox dataset | Beijing Jiaotong University | [Article Link](https://doi.org/10.1088/1361-6501/acf390) | [Dataset Link](https://github.com/Liudd-BJUT/WT-planetary-gearbox-dataset) | 48000 |
 | 3. | HUSTgearbox | HUSTgearbox dataset | Hanoi University of Science and Technology | [Article Link](https://doi.org/10.1016/j.ress.2024.109964) | [Dataset Link 1](https://github.com/CHAOZHAO-1/HUSTgearbox-dataset), [Dataset Link 2](https://drive.google.com/drive/folders/1Lt8Xu6NICPadliXhOtDMB683uKwZv4FP?usp=sharing) | 25600 |
 | 4. | MCC5-THU | MCC5-THU gearbox fault diagnosis datasets | MCC5 Group Shanghai Co. LTD & Tsinghua Univeristy | [Article Link](https://doi.org/10.1016/j.dib.2024.110453) | [Dataset Link](https://data.mendeley.com/datasets/p92gj2732w/2) | 12800 |
