@@ -64,4 +64,4 @@ Total dataset: 10
 * [Awesome Bearing Datasets for Diagnostics and Prognostics](https://github.com/VictorBauler/awesome-bearing-dataset?tab=readme-ov-file)
 * [NASA Repository](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 # In process (Don't use)
-* (Dataset Link)[https://liveutm-my.sharepoint.com/:f:/g/personal/siaren_live_utm_my/IgDbuxRZQ76gTreAEqOxtyQVAdx60_mjHg3ma5mW0a3kY5k?e=HJQl9p]
+* [Dataset Link](https://liveutm-my.sharepoint.com/:f:/g/personal/siaren_live_utm_my/IgDbuxRZQ76gTreAEqOxtyQVAdx60_mjHg3ma5mW0a3kY5k?e=HJQl9p)
