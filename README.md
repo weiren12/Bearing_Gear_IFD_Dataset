@@ -54,4 +54,8 @@ The datasets listed in the table below include only pure gear classification dat
 | 8. | UoP | Planetary gearbox vibration data | University of Pretoria | [Article Link](https://repository.up.ac.za/items/1647aebf-f8f8-4804-b5c5-b86fc59a7e16) | [Dataset Link](https://researchdata.up.ac.za/articles/dataset/Planetary_gearbox_vibration_data/13476525?file=28992879) | 38400 |
 | 9. | XJTUGearbox | XJTUGearbox Dataset | Xi’an Jiaotong University | [Article Link](https://doi.org/10.1016/j.ymssp.2021.108653) | [Dataset Link](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay) | 20480 |
 | 10. | XJTUSpurgear  | XJTUSpurgear Dataset | Xi’an Jiaotong University | [Article Link](https://doi.org/10.1016/j.ymssp.2021.108653) | [Dataset Link](https://drive.google.com/drive/folders/1ejGZu9oeL1D9nKN07Q7z72O8eFrWQTay) | 10000 |
-
+# Previous Repository for Prognostics and Health Management (PHM) Dataset
+* [Machine-Fault-Diagnosis-Dataset-PHM](https://github.com/CHAOZHAO-1/Machine-Fault-Dataset)
+* [Free Vibration Resources and PDm resources](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources)
+* [Awesome Bearing Datasets for Diagnostics and Prognostics](https://github.com/VictorBauler/awesome-bearing-dataset?tab=readme-ov-file)
+* [NASA Repository](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
