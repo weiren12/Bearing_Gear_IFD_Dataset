@@ -1,5 +1,6 @@
 # Dataset for Bearing and Gear in Intelligent Fault Diagnosis for Classification
 This is a repository of bearing and gear datasets for fault diagnosis, specifically for classification. The summary table includes the bearing model, sampling rate, source of data, and articles. If you use any data from the sources below, please cite the data source. 
+
 Update: 16 Oct 2026
 
 # List of Bearing Dataset
@@ -62,3 +63,5 @@ Total dataset: 10
 * [Free Vibration Resources and PDm resources](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources)
 * [Awesome Bearing Datasets for Diagnostics and Prognostics](https://github.com/VictorBauler/awesome-bearing-dataset?tab=readme-ov-file)
 * [NASA Repository](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+# In process (Don't use)
+* (Dataset Link)[https://liveutm-my.sharepoint.com/:f:/g/personal/siaren_live_utm_my/IgDbuxRZQ76gTreAEqOxtyQVAdx60_mjHg3ma5mW0a3kY5k?e=HJQl9p]
